@@ -39,6 +39,7 @@ public class TMember {
 		// assertEquals(newMember, oldMember);
 		// assertNotNull(newMember);
 		// assertSame(newMember, oldMember);
+		
 		if(newMember==null) {
 			System.out.println("OK");
 		}
