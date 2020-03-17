@@ -40,7 +40,6 @@ public class TMember {
 		// assertNotNull(newMember);
 		// assertSame(newMember, oldMember);
 		
-		// 단위 테스트 예시
 		if(newMember==null) {
 			System.out.println("OK");
 		}
